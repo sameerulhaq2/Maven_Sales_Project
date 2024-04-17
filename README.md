@@ -70,4 +70,11 @@ Some of the insights from the results:
 * The sales manager Summer Sewarlds team generated the most revenue from the West office.
 * Most deals were secured from the account called Kan-Code.
 
-Pictures from dashboard
+**Pictures from Dashboard**
+![Dashboard 1](https://github.com/sameerulhaq2/Maven_Sales_Project/assets/140944405/ef6d61cd-ffa9-44ed-a92b-ddfc7eb56d2d)
+![Dashboard 3](https://github.com/sameerulhaq2/Maven_Sales_Project/assets/140944405/8b128bbf-f85d-4b15-866e-d175ecef1972)
+![Dashboard 2](https://github.com/sameerulhaq2/Maven_Sales_Project/assets/140944405/f59e916d-2932-4f35-a28b-03303e66ef0a)
+![Dashboard 4](https://github.com/sameerulhaq2/Maven_Sales_Project/assets/140944405/2c187430-11e9-402b-aad0-7ce745a9bf12)
+
+
+
