@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-## Maven Sales Project
+## 📊📈 Maven Sales Project
 
 **#Business Objective**
 
@@ -69,3 +69,5 @@ Some of the insights from the results:
 * Most deals were secured from the account called Kan-Code.
 * The sales manager Summer Sewarlds team generated the most revenue from the West office.
 * Most deals were secured from the account called Kan-Code.
+
+Pictures from dashboard
