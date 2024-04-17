@@ -1,5 +1,6 @@
-## Maven Sales Project
+## 👋 Hi there!
 
+## Maven Sales Project
 
 **#Business Objective**
 
